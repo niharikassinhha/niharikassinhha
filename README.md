@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at paypay India and previously worked at amazon.<br>I'm passionate about working into AI/ML and data engineering.
+I'm currently working at paypay India and previously worked at amazon as Data Engineer.<br>I'm passionate about working into AI/ML and data engineering.
 
 
 # 💻 Tech Stack:
